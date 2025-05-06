@@ -1,1 +1,0 @@
-"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[1828],{9801:(e,t,s)=>{s.r(t),s.d(t,{default:()=>a});var _=s(8661);function a({className:e,name:t,width:s,height:a}){return _.default.createElement("svg",{className:e,width:s,height:a,xmlns:"http://www.w3.org/2000/svg"},_.default.createElement("use",{xlinkHref:`#${t}Icon`}))}}}]);

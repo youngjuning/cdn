@@ -1,1 +1,0 @@
-"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[5939],{1050:(_,l,s)=>{s.r(l),s.d(l,{pill:()=>h,pill_desktop:()=>A,pill_mobile:()=>D});var h="qoMYGbBhf9dsbaBGBphh",A="DJT17TB5hYo14sdLEAwk",D="X74hgUhePrbavkMydd6o"}}]);
