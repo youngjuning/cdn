@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[7990],{5609:(_,e,s)=>{s.r(e),s.d(e,{recentGames__fakeTile:()=>A});var A="a_WeToVjTKUUZXh6HQIE"}}]);
