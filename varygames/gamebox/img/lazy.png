@@ -2,17 +2,19 @@
 <html lang="en">
 <head>
     <script>
-    window.dataLayer = window.dataLayer || [];
-</script>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MDCVHGD');</script>
-<!-- End Google Tag Manager -->
+        window.dataLayer = window.dataLayer || [];
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R1ZSV4SJBM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-R1ZSV4SJBM');
+    </script>
     <meta charset="UTF-8">
-    <title>Gamebox - The best casual game center which you don't need to download any app!</title>
+    <title>Varygames - The best casual game center which you don't need to download any app!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="keywords" content="Online games, mobile games, Html5 games, cartoon games, casual games, kids games, casual games, kids games. family games, dress up games. girls games, adventure games. cute games, simulation games. educational games, cooking games, puzzle games, 3d games, social games, multiplayer games, 2 player games, 2d games, single player games, boy games, action games, Halloween games, puzzle games, free games, android games, ios games">
@@ -38,9 +40,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             };
         })
     </script>
-    
-    
-        
+
+
+
 </head>
 <body id="main">
     <!-- Google Tag Manager (noscript) -->
@@ -250,7 +252,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                         </ul>
                 </div>
             </div>
-            
+
     <div class="rBox">
         <div class="swiper history-swiper" id="historyBox" >
             <h2 > <i class="iconfont icon-history-line"></i> <span tran="history">History</span> </h2>
@@ -1201,7 +1203,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 
-            
+
 		</div>
     </div>
 </div>
