@@ -115,67 +115,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul class="categoryBox">
                         <li  class="active">
                             <a href="/">
-                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
                                 <p tran="home" >Home</p>
                             </a>
                         </li>
                                                         <li >
                                     <a href="/interest/list/2">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
                                         <p tran="puzzle" >Puzzle</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/3">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
                                         <p tran="kids" >Kids</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/14">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
                                         <p tran="adventure" >Adventure</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/32">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
                                         <p tran="sports" >Sports</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/41">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
                                         <p tran="racing" >Racing</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/46">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
                                         <p tran="girl" >Girl</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/90">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
                                         <p tran="hot" >Hot</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/91">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
                                         <p tran="action" >Action</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/94">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
                                         <p tran="arcade" >Arcade</p>
                                     </a>
                                 </li>
                                                             <li >
                                     <a href="/interest/list/235">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
                                         <p tran="casual" >Casual</p>
                                     </a>
                                 </li>
@@ -185,67 +185,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul class="swiper-wrapper" id="swiper-list">
                         <li class="swiper-slide active">
                             <a href="/">
-                                <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
+                                <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/gamebox/img/logo.png" alt="">
                                 <p tran="home" >Home</p>
                             </a>
                         </li>
                                                         <li class="swiper-slide ">
                                     <a href="/interest/list/2">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/51c3e30246bd7fce9a317fffb236b586.png" alt="">
                                         <p tran="puzzle" >Puzzle</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/3">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d91c3f50739b43ed1b3b825b9ffe78c8.png" alt="">
                                         <p tran="kids" >Kids</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/14">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/af72ab82766500236b1c53f0baf6a2dd.png" alt="">
                                         <p tran="adventure" >Adventure</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/32">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/d2a63ffcdf480f0b3cd1f75c97e89630.png" alt="">
                                         <p tran="sports" >Sports</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/41">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/097bc8d741a54de40484f823b3ec85bf.png" alt="">
                                         <p tran="racing" >Racing</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/46">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/f8d565f764add73d6c8dbc69e7d36855.png" alt="">
                                         <p tran="girl" >Girl</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/90">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/df830c54f2b538529a02002ae6351760.png" alt="">
                                         <p tran="hot" >Hot</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/91">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/0ccfab0efc4a70e294f09457d4d02dba.png" alt="">
                                         <p tran="action" >Action</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/94">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/5e575e69f2960a4471640343b3f71f1b.png" alt="">
                                         <p tran="arcade" >Arcade</p>
                                     </a>
                                 </li>
                                                             <li class="swiper-slide ">
                                     <a href="/interest/list/235">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/games/20210315/db90ea00a121cf5b9cf63046ccb49a64.png" alt="">
                                         <p tran="casual" >Casual</p>
                                     </a>
                                 </li>
@@ -269,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <li class="swiper-slide">
                                 <a href="/interest/detail/2/2237">
                                     <div class="thumb">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231211/71fff3d78621d0f2e0cc28c54dbc21a7.jpg" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231211/71fff3d78621d0f2e0cc28c54dbc21a7.jpg" alt="">
                                     </div>
                                     <dl>
                                         <dt>
@@ -284,7 +284,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                 <li class="swiper-slide">
                                 <a href="/interest/detail/2/2068">
                                     <div class="thumb">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230203/Shooter_Sea_World_512x512.jpg" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230203/Shooter_Sea_World_512x512.jpg" alt="">
                                     </div>
                                     <dl>
                                         <dt>
@@ -299,7 +299,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                 <li class="swiper-slide">
                                 <a href="/interest/detail/2/2170">
                                     <div class="thumb">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230731/9a24608dc21333e900e033c960d593c0.jpg" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230731/9a24608dc21333e900e033c960d593c0.jpg" alt="">
                                     </div>
                                     <dl>
                                         <dt>
@@ -314,7 +314,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                 <li class="swiper-slide">
                                 <a href="/interest/detail/2/2215">
                                     <div class="thumb">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Makeover_Girl_512_512.png" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Makeover_Girl_512_512.png" alt="">
                                     </div>
                                     <dl>
                                         <dt>
@@ -329,7 +329,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                 <li class="swiper-slide">
                                 <a href="/interest/detail/14/2165">
                                     <div class="thumb">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230717/2ca72649c4de0b469ee99b083fee01c3.jpg" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230717/2ca72649c4de0b469ee99b083fee01c3.jpg" alt="">
                                     </div>
                                     <dl>
                                         <dt>
@@ -344,7 +344,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                 <li class="swiper-slide">
                                 <a href="/interest/detail/91/2093">
                                     <div class="thumb">
-                                        <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230221/Army_Commander_2_512x512.jpeg" alt="">
+                                        <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230221/Army_Commander_2_512x512.jpeg" alt="">
                                     </div>
                                     <dl>
                                         <dt>
@@ -371,7 +371,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <li>
                             <a href="/interest/detail/88/1723">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230612/8020e4c32c8b97580fa4bb95a1421bfd.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230612/8020e4c32c8b97580fa4bb95a1421bfd.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -386,7 +386,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/88/2103">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/Air_Force_Commando_512x512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/Air_Force_Commando_512x512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -401,7 +401,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2176">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230825/ba991a5367d5bb29161c5885ff994a1d.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230825/ba991a5367d5bb29161c5885ff994a1d.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -416,7 +416,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2091">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230221/Fruits_Skewer_512x512.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230221/Fruits_Skewer_512x512.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -434,7 +434,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/3/2152">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230628/3598a818d835b6c8fa5713ff50a1d6fc.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230628/3598a818d835b6c8fa5713ff50a1d6fc.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -449,7 +449,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/235/2205">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Bubble_Pop_Shoot_512_512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Bubble_Pop_Shoot_512_512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -467,7 +467,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/14/2286">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240524/7831128e379b592ebd152505e518ed00.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240524/7831128e379b592ebd152505e518ed00.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -482,7 +482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/235/2213">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Higgs_Cube_512_512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Higgs_Cube_512_512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -497,7 +497,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/3/2151">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230620/c2381031e708abbab466d4fe3798da28.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230620/c2381031e708abbab466d4fe3798da28.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -512,7 +512,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/235/2119">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/Bubble_Pop_Master_512x512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/Bubble_Pop_Master_512x512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -530,7 +530,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2181">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230918/b6126b9cadf6ea68756b3f05179b9863.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230918/b6126b9cadf6ea68756b3f05179b9863.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -545,7 +545,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/94/2120">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/Panda_Man_512x512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/Panda_Man_512x512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -560,7 +560,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2287">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240607/651fb35dd5a4cc9a7ad23848d47b4b20.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240607/651fb35dd5a4cc9a7ad23848d47b4b20.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -575,7 +575,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2118">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/Zumbla_Deluxe_512x512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/Zumbla_Deluxe_512x512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -590,7 +590,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2290">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240614/7d010bb892f07c2c3624e8663c5fc0fb.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240614/7d010bb892f07c2c3624e8663c5fc0fb.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -605,7 +605,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/235/2209">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Domino_Master_512_512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Domino_Master_512_512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -620,7 +620,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/14/2233">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231204/251cd622605b0259d9ec688f4ad4cfd9.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231204/251cd622605b0259d9ec688f4ad4cfd9.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -635,7 +635,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/3/2127">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230529/743d1a0dea62b7e8b679465677f0261b.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230529/743d1a0dea62b7e8b679465677f0261b.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -650,7 +650,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2167">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230725/0f7d177602efd188e7f1c0e841ca88a6.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230725/0f7d177602efd188e7f1c0e841ca88a6.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -665,7 +665,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/88/2108">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/Jack_O_Gunner_512x512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230307/Jack_O_Gunner_512x512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -683,7 +683,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/14/2288">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240607/d102e051ab70bb5f350bdd7e6e88b89d.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240607/d102e051ab70bb5f350bdd7e6e88b89d.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -698,7 +698,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/46/2059">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230203/Magic_Garden_Princess_512x512.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230203/Magic_Garden_Princess_512x512.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -713,7 +713,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2260">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240304/990b3289bf9e671912abdd309ad7e25d.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240304/990b3289bf9e671912abdd309ad7e25d.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -728,7 +728,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/91/2206">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/City_Baby_Agent_512_512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/City_Baby_Agent_512_512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -743,7 +743,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/14/2279">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240428/17dca2d168515f85e7bfa8890e0633d5.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240428/17dca2d168515f85e7bfa8890e0633d5.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -758,7 +758,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/3/2131">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230509/5e8ba6e1249188b8f64db359ca2106a3.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230509/5e8ba6e1249188b8f64db359ca2106a3.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -776,7 +776,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2258">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240218/0059012df630ba96340f54ea364c3d2b.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240218/0059012df630ba96340f54ea364c3d2b.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -791,7 +791,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/88/1753">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20220413/946ef35a21801ba576e4c4368acca213.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20220413/946ef35a21801ba576e4c4368acca213.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -809,7 +809,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2172">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230810/8826414bef3705e80459714a2337e1d1.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230810/8826414bef3705e80459714a2337e1d1.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -827,7 +827,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2211">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Exit_the_Gungeon_512_512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Exit_the_Gungeon_512_512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -842,7 +842,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2289">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240607/a0c87ae7b106aae3f33d3d5822870ad8.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240607/a0c87ae7b106aae3f33d3d5822870ad8.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -857,7 +857,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/3/2125">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230424/Princess_Makeup_Salon_512x512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230424/Princess_Makeup_Salon_512x512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -872,7 +872,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/14/2179">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230830/3d0d5d001fa660ae24c45a6963ae9d71.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230830/3d0d5d001fa660ae24c45a6963ae9d71.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -890,7 +890,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2067">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230203/Bubble_Journey_512x512.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230203/Bubble_Journey_512x512.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -905,7 +905,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2235">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231207/fa1ce81fa732e12aeda803f1d9c1f58a.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231207/fa1ce81fa732e12aeda803f1d9c1f58a.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -920,7 +920,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/88/2080">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230210/Warriors_io_512x512.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230210/Warriors_io_512x512.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -935,7 +935,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2175">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230817/b7e3ae57c60013b7530106221d3eab77.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230817/b7e3ae57c60013b7530106221d3eab77.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -950,7 +950,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2219">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Think_It_512_512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Think_It_512_512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -965,7 +965,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2162">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230707/d9b771d89b0f7c3abbd5cebe66a86282.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230707/d9b771d89b0f7c3abbd5cebe66a86282.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -980,7 +980,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/41/2079">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230210/overtake_512x512.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230210/overtake_512x512.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -995,7 +995,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/14/2177">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230825/ce3cda0a4976a07eacad254a0cd117df.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230825/ce3cda0a4976a07eacad254a0cd117df.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1010,7 +1010,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/91/2121">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/ConnBlock_512x512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230322/ConnBlock_512x512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1025,7 +1025,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2145">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230605/52a875a89a431fbdc6a2dee2c4ba39a6.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230605/52a875a89a431fbdc6a2dee2c4ba39a6.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1040,7 +1040,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2221">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Water_Pipe_Puzzel_512_512.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231129/Water_Pipe_Puzzel_512_512.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1055,7 +1055,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2242">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240102/fcc3fc572294feb88131f6a8369f5d8a.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240102/fcc3fc572294feb88131f6a8369f5d8a.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1073,7 +1073,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2099">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230302/Draw_Bridge_512x512.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230302/Draw_Bridge_512x512.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1088,7 +1088,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2184">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231010/38d6ea8053217ca6cc00df669d2be378.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231010/38d6ea8053217ca6cc00df669d2be378.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1103,7 +1103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/32/2097">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230302/Mini_Football_512x512.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230302/Mini_Football_512x512.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1118,7 +1118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/2/2163">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230710/77af35e5106c40158a918e251dbd8d07.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230710/77af35e5106c40158a918e251dbd8d07.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1136,7 +1136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/90/1955">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20221011/Num_Breaker.png" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20221011/Num_Breaker.png" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1151,7 +1151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/3/2192">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231109/2a945cd1786f6f3642cad4cd06c0fcce.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20231109/2a945cd1786f6f3642cad4cd06c0fcce.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1166,7 +1166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/91/2092">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230221/WildBrawl_512x512.jpeg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20230221/WildBrawl_512x512.jpeg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1181,7 +1181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li>
                             <a href="/interest/detail/3/2284">
                                 <div class="thumb">
-                                    <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240524/87a0be4e9a6f42188ceb58544c2c0642.jpg" alt="">
+                                    <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="/uploads/gamepic/20240524/87a0be4e9a6f42188ceb58544c2c0642.jpg" alt="">
                                 </div>
                                 <dl>
                                     <dt>
@@ -1326,7 +1326,7 @@ var en = {
                             res+=`
                      <li class="swiper-slide">
                          <a href="/interest/detail/${result.classId}/${result.gameId}">
-                             <img src="/gamebox/img/lazy.png" class="lazyLoad" data-src="${result.icon}" alt="">
+                             <img src="https://cdn.jsdelivr.net/gh/youngjuning/cdn@main/varygames/gamebox/img/lazy.png" class="lazyLoad" data-src="${result.icon}" alt="">
                          </a>
                      </li>
 
