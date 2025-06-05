@@ -473,4 +473,8 @@ a.text-footer:hover, a.text-footer:focus {
   .blog.blog-list .blog-list-img.md-full img {
     width: 100% !important;
   }
-}/*# sourceMappingURL=style.css.map */
+}
+ins.adsbygoogle[data-ad-status="unfilled"] {
+  display: none !important;
+}
+/*# sourceMappingURL=style.css.map */
