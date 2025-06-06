@@ -477,4 +477,7 @@ a.text-footer:hover, a.text-footer:focus {
 ins.adsbygoogle[data-ad-status="unfilled"] {
   display: none !important;
 }
+[v-cloak] {
+  display: none;
+}
 /*# sourceMappingURL=style.css.map */
