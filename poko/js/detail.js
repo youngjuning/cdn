@@ -29,6 +29,7 @@
 
 
 	const cates = HUHUSdk.getCategory();
+	let tag = HUHUSdk.getUrlParam("tag");
 	var u = document.getElementById("menu"),
 	v = document.createElement("a");
 	v.className = "ui-sidepanel-content-catelist-item",
@@ -49,7 +50,7 @@
 	let w = document.getElementById("game_content");
 	let c = document.createElement("a");
 	c.className = "page-game-detail";
-	c.href = `play.html?id=${game.id}`;
+	c.href = `play.html?id=${game.id}&tag=${tag}`;
 	c.setAttribute("data-eventCategory","nav_to_play"),
 	c.setAttribute("data-eventAction",`${game.name}`);
 	let u1 = new Image;
