@@ -52,7 +52,7 @@
 			const e = n[i];
 			let c = document.createElement("a");
 			c.className = "page-list-itemcontainer-item";
-			c.href = `game.html?id=${e.id}`;
+			c.href = `game.html?id=${e.id}&tag=${tag}`;
 			c.setAttribute("data-eventCategory","nav_to_category_more"),
 			c.setAttribute("data-eventAction",`${e.name}`);
 			let u = new Image;
